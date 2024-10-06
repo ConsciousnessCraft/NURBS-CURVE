@@ -18,108 +18,21 @@ A knot vector is a sequence of parameter values that partitions the parameter sp
 Polynomial Basis Functions:
 
 NURBS curves are defined using piecewise polynomial functions called basis functions, which are non-negative and sum to one over the domain.
-Mathematical Representation: The NURBS curve 
-𝐶
-(
-𝑢
-)
+Mathematical Representation: The NURBS curve 𝐶(𝑢)
 C(u) can be defined as:
 
-𝐶
-(
-𝑢
-)
-=
-∑
-𝑖
-=
-0
-𝑛
-𝑁
-𝑖
-,
-𝑝
-(
-𝑢
-)
-⋅
-𝑤
-𝑖
-⋅
-𝑃
-𝑖
-∑
-𝑖
-=
-0
-𝑛
-𝑁
-𝑖
-,
-𝑝
-(
-𝑢
-)
-⋅
-𝑤
-𝑖
-C(u)= 
-∑ 
-i=0
-n
-​
- N 
-i,p
-​
- (u)⋅w 
-i
-​
- 
-∑ 
-i=0
-n
-​
- N 
-i,p
-​
- (u)⋅w 
-i
-​
- ⋅P 
-i
-​
- 
-​
- 
-Where:
+The NURBS curve \( C(u) \) can be defined as:
 
-𝑃
-𝑖
-P 
-i
-​
-  are the control points.
-𝑤
-𝑖
-w 
-i
-​
-  are the weights associated with each control point.
-𝑁
-𝑖
-,
-𝑝
-(
-𝑢
-)
-N 
-i,p
-​
- (u) are the B-spline basis functions of degree 
-𝑝
-p.
-𝑢
-u is the parameter that varies along the curve.
+<p>
+C(u) = <sup>∑<sub>i=0</sub><sup>n</sup></sup> N<sub>i,p</sub>(u) ⋅ w<sub>i</sub> ⋅ P<sub>i</sub> 
+</p>
+
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / <sup>∑<sub>i=0</sub><sup>n</sup></sup> N<sub>i,p</sub>(u) ⋅ w<sub>i</sub>
+</p>
+
+
+
 Applications:
 
 Computer Graphics: NURBS are widely used to model complex curves and surfaces in 3D graphics, animations, and rendering.
