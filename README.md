@@ -26,16 +26,4 @@ C(u) = ∑<sub>i=0</sub><sup>n</sup> N<sub>i,p</sub>(u) ⋅ w<sub>i</sub> ⋅ P<
 
 
 
-Applications:
-
-Computer Graphics: NURBS are widely used to model complex curves and surfaces in 3D graphics, animations, and rendering.
-CAD/CAM: They are essential in creating precise geometric models for engineering and manufacturing applications.
-Animation: NURBS curves can define motion paths for objects in animations.
-Advantages:
-
-NURBS can represent a wide range of geometric shapes, including lines, circles, and complex curves, with high precision.
-The ability to adjust weights and control points allows for intuitive manipulation of shapes.
-Summary
-NURBS curves are a powerful tool in geometric modeling, offering flexibility and precision for a variety of applications. They are fundamental in fields like computer graphics, CAD, and animations due to their capability to accurately represent complex shapes.
-
 
