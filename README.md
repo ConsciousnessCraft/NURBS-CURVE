@@ -19,17 +19,10 @@ Polynomial Basis Functions:
 
 NURBS curves are defined using piecewise polynomial functions called basis functions, which are non-negative and sum to one over the domain.
 Mathematical Representation: The NURBS curve 𝐶(𝑢)
-C(u) can be defined as:
+The NURBS curve C(u) can be defined as:
 
-The NURBS curve \( C(u) \) can be defined as:
-
-<p>
-C(u) = <sup>∑<sub>i=0</sub><sup>n</sup></sup> N<sub>i,p</sub>(u) ⋅ w<sub>i</sub> ⋅ P<sub>i</sub> 
-</p>
-
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / <sup>∑<sub>i=0</sub><sup>n</sup></sup> N<sub>i,p</sub>(u) ⋅ w<sub>i</sub>
-</p>
+C(u) = ∑<sub>i=0</sub><sup>n</sup> N<sub>i,p</sub>(u) ⋅ w<sub>i</sub> ⋅ P<sub>i</sub> 
+/ ∑<sub>i=0</sub><sup>n</sup> N<sub>i,p</sub>(u) ⋅ w<sub>i</sub>
 
 
 
