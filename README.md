@@ -55,6 +55,9 @@ Show Curve and Surface Balayage: Press n to display the curve and the balayage s
 
 Return to Initial View: Press c to return to the first view.
  
+![Screenshot 2024-10-07 101420](https://github.com/user-attachments/assets/d6a8722b-930d-4a49-bf6a-da95bbdef50e)
+![Screenshot 2024-10-07 101455](https://github.com/user-attachments/assets/075fee76-9297-45b6-99ce-7edc5ba4bbc1)
+![Screenshot 2024-10-07 101537](https://github.com/user-attachments/assets/58cbddb4-bbc2-4163-949b-1676e258bbee)
 
 
 
